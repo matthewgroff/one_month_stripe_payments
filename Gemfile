@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Require a specific Ruby version
-ruby '2.1.1'
+ruby '2.2.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5.1'
